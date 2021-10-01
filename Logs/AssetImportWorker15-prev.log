@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.13f1 (a03098edbbe0) revision 10498200'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 17134.950; Version 1803; 64bit' Language: 'en' Physical Memory: 3995 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\laptrinhgame\unity_essential\2021.1.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker15
+-projectPath
+E:/LapTrinhGame/Castlebattle_test/Castle Raid
+-logFile
+Logs/AssetImportWorker15.log
+-srvPort
+59723
+Successfully changed project path to: E:/LapTrinhGame/Castlebattle_test/Castle Raid
+E:/LapTrinhGame/Castlebattle_test/Castle Raid
+Using Asset Import Pipeline V2.
